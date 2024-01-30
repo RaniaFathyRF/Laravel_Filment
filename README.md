@@ -3,11 +3,11 @@
 
 - this project handle posts & categories many to many relationship using filment for backend dashboard
 - create list apis for posts and categories using jwt
-http://127.0.0.1:8000/api/login
-http://127.0.0.1:8000/api/refresh
-http://127.0.0.1:8000/api/logout
-http://127.0.0.1:8000/api/posts
-http://127.0.0.1:8000/api/categories
+- http://127.0.0.1:8000/api/login add email and password in body
+- http://127.0.0.1:8000/api/refresh add token in body
+- http://127.0.0.1:8000/api/logout add bearer token 
+- http://127.0.0.1:8000/api/posts add bearer token
+- http://127.0.0.1:8000/api/categories add bearer token
 
 ## TO run this project
 
